@@ -3,7 +3,8 @@ uploadFlickr
 
 Take a screenshot and upload to flickr, very naive
 and very simple, no options, no arguments, just download
-the python script and run. It will take a screenshot
+the python script, fill in the api key and secret,
+and run. It will take a screenshot
 and save it as a temporary file, then upload to flickr.
 
 #Prerequsites:
